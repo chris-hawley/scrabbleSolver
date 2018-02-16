@@ -48,6 +48,8 @@
         "sstream": "cpp",
         "thread": "cpp",
         "valarray": "cpp",
-        "__config": "cpp"
+        "__config": "cpp",
+        "*.ipp": "cpp",
+        "hash_map": "cpp"
     }
 }
